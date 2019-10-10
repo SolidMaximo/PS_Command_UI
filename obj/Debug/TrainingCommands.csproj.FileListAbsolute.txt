@@ -1,0 +1,9 @@
+D:\source\repos\TrainingCommands\bin\Debug\TrainingCommands.dll
+D:\source\repos\TrainingCommands\bin\Debug\TrainingCommands.pdb
+D:\source\repos\TrainingCommands\obj\Debug\TrainingCommands.dll
+D:\source\repos\TrainingCommands\obj\Debug\TrainingCommands.pdb
+C:\Program Files\Tecnomatix_13.0\eMPower\DotNetCommands\TrainingCommands.dll
+C:\Program Files\Tecnomatix_13.0\eMPower\DotNetCommands\TrainingCommands.pdb
+D:\source\repos\TrainingCommands\obj\Debug\TrainingCommands.StringTable.resources
+D:\source\repos\TrainingCommands\obj\Debug\TrainingCommands.csproj.GenerateResource.cache
+D:\source\repos\TrainingCommands\obj\Debug\TrainingCommands.csprojAssemblyReference.cache
